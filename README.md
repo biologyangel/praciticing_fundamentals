@@ -1,2 +1,2 @@
 # praciticing_fundameantals
-practicing for, in, while, if/else to organize and analyze motifs present in DNA sequences
+strings, loops, functions, conditionals, lists, dictionaries, and indices using loop structure
